@@ -1,4 +1,4 @@
-import homeWork1.HeapSort;
+import algorithms.homeWork1.HeapSort;
 
 public class Main {
     public static void main(String[] args) {

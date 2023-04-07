@@ -1,4 +1,4 @@
-package HomeWork3;
+package algorithms.HomeWork3;
 
 public class RedBlackTree {
 

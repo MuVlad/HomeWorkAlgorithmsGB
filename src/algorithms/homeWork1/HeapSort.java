@@ -1,4 +1,4 @@
-package homeWork1;
+package algorithms.homeWork1;
 
 public class HeapSort {
     public static void sort(int[] array) {

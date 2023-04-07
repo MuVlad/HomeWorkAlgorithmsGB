@@ -1,4 +1,4 @@
-package homeWork2;
+package algorithms.homeWork2;
 
 public class RevertLinkedList {
 
